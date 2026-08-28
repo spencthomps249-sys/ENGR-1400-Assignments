@@ -13,7 +13,7 @@ int main()
     // Calculation
     numAcres = totalSqFt/acre;
     //output
-    cout << "Your " << totalSqFt << " SqFt is " << numAcres << "acres";
+    cout << "Your " << totalSqFt << " SqFt is " << numAcres << " acres";
 
     return 0;
 }
